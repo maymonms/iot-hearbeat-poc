@@ -1,0 +1,4 @@
+com\techspace\rest\ApiClient.class
+com\techspace\taskconfig\ScheduledTasks.class
+com\techspace\utils\ConfigurationProperties.class
+com\techspace\taskconfig\IotHeartBeatApplication.class
